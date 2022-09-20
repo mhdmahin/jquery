@@ -1,0 +1,178 @@
+a {
+	display: inline-block;
+}
+
+.mbb {
+	background-color: #bca;
+	width: 100px;
+	border: 1px solid green;
+}
+
+.mbs {
+    background-color: #bca;
+    width: 200px;
+    height: auto;
+    text-align: center;
+    border: 2px solid green;
+    margin: 3px;
+	font-size: 14px;
+  }
+button {
+	font-size: 14px;
+}
+
+img {
+	padding: 10px;
+}
+.mn {
+    color: red;
+    font-size: 24px;
+}
+
+.pp {
+	color: red;
+}
+.span {
+	color: blue;
+}
+
+form {
+    border: 2px green solid;
+    padding: 2px;
+    margin: 0;
+    background: #efe;
+}
+.smoll {
+    color: red;
+}
+fieldset {
+	margin: 1px;
+    padding: 3px;
+}
+
+.vv {
+    font-size: 14px;
+}
+
+table {
+    background: #f3f7f5;
+}
+
+.select {
+    color: red;
+}
+h3{
+	background-color: white !important;
+}
+.h123{
+	padding-bottom: 25px;
+	background-color: white !important;
+}
+.boxx {
+    background: green;
+    border: 1px solid #AAA;
+    width: 80px;
+    height: 80px;
+    margin: 0 5px;
+    float: left;
+}
+div.colored {
+    background: red;
+}
+
+.bott {
+    margin: 5px;
+}
+#theone {
+    color: red;
+    background: yellow;
+}
+
+.asas{
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+    float: left;
+    background: green;
+    border: 10px outset;
+    cursor:pointer;
+}
+.ppp {
+    color: red;
+    margin: 0;
+    clear: left;
+}
+
+.sasa {
+    background: yellow;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+}
+.over {
+    background: #ccc;
+}
+span {
+	color: red;
+}
+
+.clic {
+    background: yellow;
+    font-weight: bold;
+    cursor: pointer;
+    padding: 5px;
+}
+.over {
+     background: #ccc;
+}
+.sp {
+    color: red;
+}
+
+.para {
+    height: 30px;
+    width: 150px;
+    background-color: #ccf;
+}
+.claa {
+    height: 30px;
+    width: 150px;
+    background-color: #cfc;
+}
+
+.cdv {
+    width: 220px;
+    height: 170px;
+    margin: 10px 50px 10px 10px;
+    background: yellow;
+    border: 2px groove;
+    float: right;
+}
+.pc {
+    margin: 0;
+    margin-left: 10px;
+    color: red;
+    width: 220px;
+    height: 120px;
+    padding-top: 70px;
+    float: left;
+    font-size: 14px;
+}
+.sppn {
+    display: block;
+}
+
+.popo{
+	margin-top: 180px;
+	margin-bottom: 10px;
+}
+.smc {
+    color: red;
+    margin: 5px;
+    cursor: pointer;
+}
+.smc:hover {
+    background: yellow;
+}
+
+
